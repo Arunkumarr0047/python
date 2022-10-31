@@ -1,0 +1,70 @@
+
+
+.first{
+    font-family: emoji;
+    font-size: 70px;
+    color: white;
+    margin-left: 300px;
+    float: left;
+    width: 700px;
+}
+.sec{
+    width: 400px;
+    float:left;
+    margin-top: 40px;
+    margin-left: 30px;
+   
+}
+.r{
+  background-color: black;
+}
+.but{
+    font-size: 25px;
+    margin-left: 30px;
+    background-color: black;
+    border-radius: 8px;
+    border-color: lightskyblue;
+    color: white;
+    font-family: emoji;
+}
+.image{
+    height: 900px;
+}
+.we{
+    background-color: black;
+    height: 700px;
+    width: 1400px;
+    margin-left: 150px;
+    margin-right: 500px;
+    margin-top: 50px;
+}
+.thir{
+    color: white;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+.car{
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.my{
+    font-size: 20px;
+    color: white;
+    border-radius: 8px;
+    
+
+}
+.ve{
+    width: 1000px;
+    height: 150px;
+    float: left;
+    margin-top: 100px;
+}
+.cen{
+    margin-left: 650px;
+}
+.foo{
+    width: 2000px;
+    height: 150px;
+    background-color: skyblue;
+}
